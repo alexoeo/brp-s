@@ -19,7 +19,7 @@
       "name": "CAPITAL RP | 01",
       "ip": "54.38.117.78",
       "port": 1225,
-      "x2": false,
+      "x2": true,
       "online": 49,
       "maxonline": 50
     }
