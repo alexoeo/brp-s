@@ -5,13 +5,13 @@
 
   "urls": {
     "cdn": "https://6942f009858f5.xvest5.ru/brilliant-cdn/",
-    "donate": "https://",
-    "forum": "https://",
-    "support": "https://",
-    "telegram": "https://",
-    "vk": "https://",
-    "discord": "https://",
-    "privacy": "https://"
+    "donate": "https://shadowrp.ucoz.org/crmp/donate.html",
+    "forum": "",
+    "support": "https://shadowrp.ucoz.org/crmp/sup.html",
+    "telegram": "https://shadowrp.ucoz.org/crmp/tg.html",
+    "vk": "https://shadowrp.ucoz.org/crmp/vk.html",
+    "discord": "https://discord.gg/YRTvxP4eH",
+    "privacy": "https://shadowrp.ucoz.org/crmp/conf.html"
   },
 
   "servers": [
