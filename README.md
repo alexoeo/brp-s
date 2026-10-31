@@ -1,2 +1,2 @@
-# brp-s
+# brps
 xx
